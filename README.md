@@ -1,5 +1,17 @@
 # GitHub User Analysis in Seattle
-                                   
+
+ `````
+
+  ██████ ▓█████ ▄▄▄     ▄▄▄█████▓▄▄▄█████▓ ██▓    ▓█████ 
+▒██    ▒ ▓█   ▀▒████▄   ▓  ██▒ ▓▒▓  ██▒ ▓▒▓██▒    ▓█   ▀ 
+░ ▓██▄   ▒███  ▒██  ▀█▄ ▒ ▓██░ ▒░▒ ▓██░ ▒░▒██░    ▒███   
+  ▒   ██▒▒▓█  ▄░██▄▄▄▄██░ ▓██▓ ░ ░ ▓██▓ ░ ▒██░    ▒▓█  ▄ 
+▒██████▒▒░▒████▒▓█   ▓██▒ ▒██▒ ░   ▒██▒ ░ ░██████▒░▒████▒
+▒ ▒▓▒ ▒ ░░░ ▒░ ░▒▒   ▓▒█░ ▒ ░░     ▒ ░░   ░ ▒░▓  ░░░ ▒░ ░
+░ ░▒  ░ ░ ░ ░  ░ ▒   ▒▒ ░   ░        ░    ░ ░ ▒  ░ ░ ░  ░
+░  ░  ░     ░    ░   ▒    ░        ░        ░ ░      ░   
+      ░     ░  ░     ░  ░                     ░  ░   ░  ░                                                                                                                             
+`````                  
 
 - To scrape the GitHub API, I used Python with the requests library to send GET requests for user data in Seattle. I filtered users with over 200 followers by examining the API response for relevant attributes like bios and repositories. I implemented pagination to gather comprehensive data and stored the results in a structured format for analysis.
 - An intriguing insight from the analysis is the prevalence of academic backgrounds among GitHub users in Seattle. Many bios featured phrases such as "research scientist at" and "University of Washington," highlighting a strong link between academia and the tech industry. This suggests that local universities significantly contribute to the region’s skilled workforce, fostering innovation and research.
