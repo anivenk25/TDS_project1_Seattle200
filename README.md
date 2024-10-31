@@ -1,16 +1,10 @@
 # GitHub User Analysis in Seattle
                                    
-'''
-  ___           _   _   _     ___ __   __  
- / __| ___ __ _| |_| |_| |___|_  )  \ /  \ 
- \__ \/ -_) _` |  _|  _| / -_)/ / () | () |
- |___/\___\__,_|\__|\__|_\___/___\__/ \__/ 
-                                           
-'''
-- This project scrapes the GitHub API to identify users in Seattle with over 200 followers, focusing on their bios and repositories.
-- An interesting finding is that many users have academic backgrounds, with common phrases like "research scientist at" and "University of Washington" appearing frequently.
-- Based on the analysis, I recommend developers consider using JavaScript, which has shown significant popularity and trends indicating high engagement.
 
+- To scrape the GitHub API, I used Python with the requests library to send GET requests for user data in Seattle. I filtered users with over 200 followers by examining the API response for relevant attributes like bios and repositories. I implemented pagination to gather comprehensive data and stored the results in a structured format for analysis.
+- An intriguing insight from the analysis is the prevalence of academic backgrounds among GitHub users in Seattle. Many bios featured phrases such as "research scientist at" and "University of Washington," highlighting a strong link between academia and the tech industry. This suggests that local universities significantly contribute to the region’s skilled workforce, fostering innovation and research.
+- Based on my findings, I recommend developers embrace JavaScript and R for their projects. JavaScript shows significant popularity, reflecting strong community engagement, while R appeals to those focused on data science and analytics. Utilizing both languages can enhance versatility and open opportunities for collaboration, allowing developers to effectively address diverse project requirements and industry demands.
+  
 ## Overview
 
 This project utilizes the GitHub API to scrape data about users located in Seattle who have more than 200 followers. The goal is to analyze user profiles and repositories to uncover trends and insights about the developer community in this region.
