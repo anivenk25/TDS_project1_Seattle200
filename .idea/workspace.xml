@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3661df01-63f2-4c2b-810b-1e5bc18ad646" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TDS_project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TDS_project1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3661df01-63f2-4c2b-810b-1e5bc18ad646" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730356517806</updated>
-      <workItem from="1730356519143" duration="10450000" />
+      <workItem from="1730356519143" duration="10782000" />
     </task>
     <servers />
   </component>
